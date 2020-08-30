@@ -187,7 +187,7 @@ class GLTFWriter {
 			skins: [
 				{
 					name: this.name + 'Skeleton',
-					joints: [],
+					joints: [0],
 				}
 			],
 			textures: [],
